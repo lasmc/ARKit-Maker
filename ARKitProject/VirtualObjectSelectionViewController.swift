@@ -44,12 +44,30 @@ class VirtualObjectSelectionViewController: UIViewController, UITableViewDataSou
 			return Chair()
         case 4:
             return Mesa()
+        case 5:
+            return Sofa()
+        case 6:
+            return Faro()
+        case 7:
+            return Mesare()
+        case 8:
+            return Mnoche()
+        case 9:
+            return Planta()
+        case 10:
+            return Sillon()
+        case 11:
+            return Repiza()
+        case 12:
+            return Mesa()
+        case 13:
+            return Cama()
 		default:
-			return Vase()
+			return Cama()
 		}
 	}
 
-	static let COUNT_OBJECTS = 5
+	static let COUNT_OBJECTS = 14
 
 	// MARK: - UITableViewDelegate
 	func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {

@@ -20,6 +20,14 @@
 		39D8DC1B1E8ADAE600386B05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39D8DC1A1E8ADAE600386B05 /* LaunchScreen.storyboard */; };
 		582FB0721F43EAC600AD8041 /* .swiftlint.yml in Resources */ = {isa = PBXBuildFile; fileRef = 582FB0711F43EAC600AD8041 /* .swiftlint.yml */; };
 		58DE9FC71FDDA042008E25AF /* VirtualObjectsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58DE9FC61FDDA041008E25AF /* VirtualObjectsManager.swift */; };
+		6557D53020E9C2FC00B91DBC /* Faro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6557D52F20E9C2FC00B91DBC /* Faro.swift */; };
+		6557D53220E9C31900B91DBC /* Mesare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6557D53120E9C31900B91DBC /* Mesare.swift */; };
+		6557D53420E9C32900B91DBC /* Mnoche.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6557D53320E9C32900B91DBC /* Mnoche.swift */; };
+		6557D53620E9C34400B91DBC /* Planta.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6557D53520E9C34400B91DBC /* Planta.swift */; };
+		6557D53820E9C36400B91DBC /* Repiza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6557D53720E9C36400B91DBC /* Repiza.swift */; };
+		6557D53E20E9C39600B91DBC /* Sillon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6557D53D20E9C39600B91DBC /* Sillon.swift */; };
+		6557D54020E9C3A600B91DBC /* Sofa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6557D53F20E9C3A600B91DBC /* Sofa.swift */; };
+		6557D54220E9DC6000B91DBC /* Cama.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6557D54120E9DC6000B91DBC /* Cama.swift */; };
 		65A44BD920E6DCE600625678 /* Mesa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A44BD820E6DCE600625678 /* Mesa.swift */; };
 		65A44BE520E6DF4000625678 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65A44BE420E6DF4000625678 /* Assets.xcassets */; };
 		A35A11CF1EF4EB070072FE74 /* ScieneView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A35A11CE1EF4EB070072FE74 /* ScieneView+Extension.swift */; };
@@ -35,7 +43,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		11063F3B1EBE651B0033EE6D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3929C48B1E89EC2C00E00B60 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3929C48D1E89EC2C00E00B60 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		3929C4901E89EC2C00E00B60 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -50,6 +57,14 @@
 		39D8DC1A1E8ADAE600386B05 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		582FB0711F43EAC600AD8041 /* .swiftlint.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .swiftlint.yml; sourceTree = "<group>"; };
 		58DE9FC61FDDA041008E25AF /* VirtualObjectsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirtualObjectsManager.swift; sourceTree = "<group>"; };
+		6557D52F20E9C2FC00B91DBC /* Faro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Faro.swift; sourceTree = "<group>"; };
+		6557D53120E9C31900B91DBC /* Mesare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mesare.swift; sourceTree = "<group>"; };
+		6557D53320E9C32900B91DBC /* Mnoche.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mnoche.swift; sourceTree = "<group>"; };
+		6557D53520E9C34400B91DBC /* Planta.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Planta.swift; sourceTree = "<group>"; };
+		6557D53720E9C36400B91DBC /* Repiza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repiza.swift; sourceTree = "<group>"; };
+		6557D53D20E9C39600B91DBC /* Sillon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sillon.swift; sourceTree = "<group>"; };
+		6557D53F20E9C3A600B91DBC /* Sofa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sofa.swift; sourceTree = "<group>"; };
+		6557D54120E9DC6000B91DBC /* Cama.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cama.swift; sourceTree = "<group>"; };
 		65A44BD820E6DCE600625678 /* Mesa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mesa.swift; sourceTree = "<group>"; };
 		65A44BE420E6DF4000625678 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A35A11CE1EF4EB070072FE74 /* ScieneView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ScieneView+Extension.swift"; sourceTree = "<group>"; };
@@ -91,7 +106,6 @@
 		3929C47F1E89EC2C00E00B60 = {
 			isa = PBXGroup;
 			children = (
-				11063F3B1EBE651B0033EE6D /* README.md */,
 				3929C48A1E89EC2C00E00B60 /* ARKitProject */,
 				A3D672E41EF0E64100110E48 /* ARKitProject.app */,
 			);
@@ -130,6 +144,14 @@
 				A3D672F21EF0E84D00110E48 /* Lamp.swift */,
 				A3D672F41EF0E8DF00110E48 /* Vase.swift */,
 				65A44BD820E6DCE600625678 /* Mesa.swift */,
+				6557D52F20E9C2FC00B91DBC /* Faro.swift */,
+				6557D53120E9C31900B91DBC /* Mesare.swift */,
+				6557D53320E9C32900B91DBC /* Mnoche.swift */,
+				6557D53520E9C34400B91DBC /* Planta.swift */,
+				6557D53720E9C36400B91DBC /* Repiza.swift */,
+				6557D53D20E9C39600B91DBC /* Sillon.swift */,
+				6557D53F20E9C3A600B91DBC /* Sofa.swift */,
+				6557D54120E9DC6000B91DBC /* Cama.swift */,
 			);
 			path = "Virtual Objects";
 			sourceTree = "<group>";
@@ -231,7 +253,10 @@
 				39C0B9511E9C63CB003FCA0C /* HitTestVisualization.swift in Sources */,
 				A35A11CF1EF4EB070072FE74 /* ScieneView+Extension.swift in Sources */,
 				3929C48E1E89EC2C00E00B60 /* MainViewController.swift in Sources */,
+				6557D54220E9DC6000B91DBC /* Cama.swift in Sources */,
+				6557D53E20E9C39600B91DBC /* Sillon.swift in Sources */,
 				C41366B91EB80DD400EC054A /* TextManager.swift in Sources */,
+				6557D53020E9C2FC00B91DBC /* Faro.swift in Sources */,
 				39C0B95A1E9C6B1F003FCA0C /* Utilities.swift in Sources */,
 				392BB82C1EA19A7C00FBBAC8 /* Plane.swift in Sources */,
 				A3D672F11EF0E81B00110E48 /* Chair.swift in Sources */,
@@ -241,10 +266,15 @@
 				39D4A8BE1EA1AF530006EC65 /* PlaneDebugVisualization.swift in Sources */,
 				39C0B9591E9C6B1F003FCA0C /* SettingsViewController.swift in Sources */,
 				65A44BD920E6DCE600625678 /* Mesa.swift in Sources */,
+				6557D53820E9C36400B91DBC /* Repiza.swift in Sources */,
+				6557D53620E9C34400B91DBC /* Planta.swift in Sources */,
 				C490DAC41E9AB63400210960 /* VirtualObjectSelectionViewController.swift in Sources */,
 				C42A71BD1E9C0AF200944367 /* FocusSquare.swift in Sources */,
 				3929C48C1E89EC2C00E00B60 /* AppDelegate.swift in Sources */,
+				6557D54020E9C3A600B91DBC /* Sofa.swift in Sources */,
 				A3D672EF1EF0E80200110E48 /* Candle.swift in Sources */,
+				6557D53420E9C32900B91DBC /* Mnoche.swift in Sources */,
+				6557D53220E9C31900B91DBC /* Mesare.swift in Sources */,
 				C4FBC02B1EC6438B003F7864 /* ARCameraTrackingState.swift in Sources */,
 				58DE9FC71FDDA042008E25AF /* VirtualObjectsManager.swift in Sources */,
 				A3D672F31EF0E84D00110E48 /* Lamp.swift in Sources */,
